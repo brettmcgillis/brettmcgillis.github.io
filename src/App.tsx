@@ -1,5 +1,5 @@
 import { Banner } from './components/Banner'
-import { Portfolio } from './components/Portfolio'
+// import { Portfolio } from './components/Portfolio'
 import { Contact, Cv, SiteFooter } from './components/Sections'
 
 export default function App() {

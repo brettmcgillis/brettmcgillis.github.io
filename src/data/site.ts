@@ -5,7 +5,7 @@ export const EYE_CANDY_URL = 'https://brettmcgillis.github.io/eye-candy/'
 export const SITE = {
   name: 'Brett McGillis',
   role: '[Art & Engineering]',
-  tagline: 'Digital canvas. Experiments in 3D.',
+  tagline: '[Digital canvas. Experiments in 3D.]',
   socials: [
     { label: 'LinkedIn', href: 'https://www.linkedin.com/in/brett-mcgillis-61b93a125/' },
     { label: 'Instagram', href: 'https://www.instagram.com/ruinedpaintings' },
