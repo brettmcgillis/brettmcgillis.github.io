@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Raw source media (recordings, masters) — encode into public/ instead
+media-src/
