@@ -12,7 +12,9 @@ function CardBody({ item, n }: { item: PortfolioItem; n: number }) {
       </span>
       <span className="card__caption">
         <span>
-          <span className="card__n">{String(n).padStart(2, '0')}</span> {item.title}
+          <span className="card__n">{String(n).padStart(2, '0')}</span> -{' '}
+          {item.icon && <img src={item.icon} alt="" className="card__icon" width={20} height={20} />}
+          {item.title}
         </span>
         {item.href && <span aria-hidden="true">↗</span>}
       </span>

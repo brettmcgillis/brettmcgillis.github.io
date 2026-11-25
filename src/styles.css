@@ -514,6 +514,14 @@ a:hover {
   color: var(--muted);
 }
 
+.card__icon {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  margin-right: 8px;
+  vertical-align: -4px;
+}
+
 .card__n {
   color: var(--red);
   font-weight: 700;
