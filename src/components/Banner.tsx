@@ -10,8 +10,8 @@ const VIDEO = {
 }
 
 const NAV = [
-  // { label: 'Portfolio', href: '#portfolio' },
   { label: 'CV', href: '#cv' },
+  { label: 'Portfolio', href: '#portfolio' },
   { label: 'Contact', href: '#contact' },
 ]
 

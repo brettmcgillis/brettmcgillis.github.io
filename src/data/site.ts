@@ -9,16 +9,16 @@ export const SITE = {
   socials: [
     { label: 'LinkedIn', href: 'https://www.linkedin.com/in/brett-mcgillis-61b93a125/' },
     { label: 'Instagram', href: 'https://www.instagram.com/ruinedpaintings' },
+    { label: 'X', href: 'https://x.com/ruinedpaintings' },
   ],
 }
 
 export const CV = {
-  bio: '[Self-actualization through code and art]',
-  pdf: 'https://www.linkedin.com/in/brett-mcgillis-61b93a125/',
+  url: 'https://www.linkedin.com/in/brett-mcgillis-61b93a125/',
   roles: [
     { role: '[Sr. Software Engineer]', org: '[Jobber]', years: '[2024]-[now]' },
     { role: '[Sr. Software Engineer]', org: '[Vidyard]', years: '[2022]-[2023]' },
     { role: '[Sr. Software Engineer]', org: '[Mitel]', years: '[2011]-[2022]' },
   ],
-  tools: ['React', 'Three.js', 'WebGPU / TSL', 'GLSL', '[more]'],
+  tools: ['React', 'Ruby on Rails', 'Three.js', 'WebGPU / TSL', 'GLSL', '[more]'],
 }
